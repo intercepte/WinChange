@@ -1,4 +1,5 @@
-# 🇫🇷 WinChange
+# WinChange
+🇫🇷 Français
 
 [🇬🇧 Read in English](README.md) 
 • [📥 Télécharger la dernière version (Release)](https://github.com/VOTRE_PSEUDO/WinChange/releases/latest)
