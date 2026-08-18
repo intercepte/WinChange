@@ -19,3 +19,9 @@
 *   **Quick Notes:** Built-in notepad to save quick text notes locally.
 
 ---
+## 🖼️ Preview
+
+<p align="center">
+  <img src="img/Capture1.png" alt="Home Interface" width="45%">
+  <img src="img/Capture2.png" alt="Inactivity Monitor" width="45%">
+</p>
