@@ -20,3 +20,7 @@
 *   **Bloc-notes rapide :** Bloc-notes intégré pour sauvegarder rapidement des notes textuelles en local.
 
 ---
+<p align="center">
+  <img src="img/Capture1.png" alt="Home Interface" width="45%">
+  <img src="img/Capture2.png" alt="Inactivity Monitor" width="45%">
+</p>
