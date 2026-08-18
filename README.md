@@ -1,7 +1,7 @@
 # WinChange
 🌐 English
 
-[🇫🇷 Lire en Français](README.FR.md) • [📥 Download Latest Release](https://github.com/VOTRE_PSEUDO/WinChange/releases/latest)
+[🇫🇷 Lire en Français](README.FR.md) • [📥 Download Latest Release](https://github.com//intercepte/WinChange/releases/latest)
 
 **WinChange** is a lightweight windows 11 x64 desktop utility designed for power management, system monitoring, and quick access to Windows tools. It runs entirely on the desktop with a highly customizable, dark-themed UI.
 
