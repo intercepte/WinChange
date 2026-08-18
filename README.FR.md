@@ -2,7 +2,7 @@
 🇫🇷 Français
 
 [🇬🇧 Read in English](README.md) 
-• [📥 Télécharger la dernière version (Release)](https://github.com/VOTRE_PSEUDO/WinChange/releases/latest)
+• [📥 Télécharger la dernière version (Release)](https://github.com/intercepte//WinChange/releases/latest)
 
 **WinChange** est un utilitaire de bureau Windows 11 x64 conçu pour la gestion de l'alimentation, la surveillance système et l'accès rapide aux outils Windows. Il s'exécute sur le bureau avec une interface sombre et hautement personnalisable.
 
