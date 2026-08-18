@@ -1,3 +1,4 @@
+🌐 English
 WinChange
 WinChange is a lightweight, windows 11 x64 desktop utility designed for power management, system monitoring, and quick access to Windows tools. It runs entirely in the system tray/desktop with a highly customizable, dark-themed UI.
 ✨ Main Features
